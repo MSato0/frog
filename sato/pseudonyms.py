@@ -3,6 +3,7 @@ import sys
 import random
 
 def main():
+    print('yamamoto add')
     """２つのタプルからランダムに名前を選んで画面に表示する"""
     print("welcome Name Picker \n")
     print("A name just like sean world pick for Gus\n")
